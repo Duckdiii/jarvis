@@ -1,0 +1,27 @@
+[project]
+name = "voice-layer"
+version = "0.1.0"
+description = "Jarvis Voice Layer: Wake-word, STT, TTS, and VAD"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.2.0",
+    "torchaudio>=2.2.0",
+    "transformers>=4.40.0",
+    "onnxruntime>=1.17.0",
+    "openwakeword>=0.5.0",
+    "pyaudio>=0.2.14",
+    "numpy>=1.26.0",
+    "websockets>=12.0",
+    "soundfile>=0.12.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "ruff>=0.4.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

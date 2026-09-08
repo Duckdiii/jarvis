@@ -1,0 +1,1 @@
+"""openWakeWord detection package."""

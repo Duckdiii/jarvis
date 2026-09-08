@@ -1,0 +1,17 @@
+[project]
+name = "rag-memory-service"
+version = "0.1.0"
+description = "Jarvis RAG & Long-term Memory Service (Reused from LawVN pipeline)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.111.0",
+    "uvicorn>=0.30.0",
+    "pydantic>=2.7.0",
+    "chromadb>=0.5.0",
+    "sentence-transformers>=3.0.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
