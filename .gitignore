@@ -47,7 +47,7 @@ htmlcov/
 *.bin
 *.pt
 *.pth
-models/
+/models/
 
 # Java / Gradle
 .gradle/
