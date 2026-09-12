@@ -41,13 +41,16 @@ wheels/
 .coverage
 htmlcov/
 
-# Presidio & Local Model weights
+# Presidio & Local Model weights & Audio cache
 *.onnx
 *.safetensors
 *.bin
 *.pt
 *.pth
-/models/
+*.mp3
+*.wav
+models/
+downloads/
 
 # Java / Gradle
 .gradle/
