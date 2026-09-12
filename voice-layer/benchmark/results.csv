@@ -1,0 +1,41 @@
+﻿model,group,id,cau_goc,text_nhan_duoc,thoi_gian_ms,vram_mb
+PhoWhisper-small,Thuần Việt,A01,Bây giờ là mấy giờ rồi Jarvis?,bây giờ là mấy giờ rồi david.,1610.5,731.0
+PhoWhisper-small,Thuần Việt,A02,Hôm nay thời tiết Hà Nội thế nào có mưa không?,hôm nay thời tiết hà nội thế nào có mưa không.,949.3,731.0
+PhoWhisper-small,Thuần Việt,A03,Nhắc tôi uống nước lúc ba giờ chiều nhé.,nhắc tôi uống nước lúc ba giờ chiều nhé...........................................................................,2851.1,731.0
+PhoWhisper-small,Thuần Việt,A04,Đặt báo thức bảy giờ sáng mai giúp tôi.,đặt báo thứ bảy giờ sáng mai giúp tôi.,905.9,731.0
+PhoWhisper-small,Thuần Việt,A05,Bạn có thể kể cho tôi nghe một câu chuyện cười được không?,bạn có thể kể cho tôi nghe một câu chuyện cười được không.,1076.5,731.0
+PhoWhisper-small,Thuần Việt,A06,Hãy liệt kê các công việc tôi cần hoàn thành trong ngày hôm nay.,hãy liệt kê các công việc tôi cần hoàn thành trong ngày hôm nay.,1102.1,731.0
+PhoWhisper-small,Thuần Việt,A07,Tóm tắt lại nội dung cuộc họp sáng nay giúp tôi với.,tóm tắt lại nội dung cuộc họp sáng nay giúp tôi với.,985.5,731.0
+PhoWhisper-small,Thuần Việt,A08,Chúc bạn một ngày mới làm việc vui vẻ và hiệu quả.,chúc bạn một ngày mới làm việc vui vẻ và hiệu quả.,803.1,731.0
+PhoWhisper-small,Thuần Việt,A09,Mở giúp tôi danh sách ghi chú gần đây nhất nhé.,mở giúp tôi danh sách ghi chú gần đây nhất nhé.,1103.2,731.0
+PhoWhisper-small,Thuần Việt,A10,"Cảm ơn Jarvis, bạn làm tốt lắm.",cảm ơn gia viết bạn làm tốt lắm.,4876.2,731.0
+PhoWhisper-small,Code-switching,B01,Mở terminal giúp tui,mỡ tê mi nan giúp tôi.,888.1,731.0
+PhoWhisper-small,Code-switching,B02,Check git log commit gần nhất,chết khiết lọt cò mít gần nhất.,734.5,731.0
+PhoWhisper-small,Code-switching,B03,Chạy docker build lại cái image này đi,ch chạy đất cơ bưu lại cái imít này đi.,830.9,731.0
+PhoWhisper-small,Code-switching,B04,Tạo pull request lên branch main giúp tôi với,tạo cung rít lên bờ răng mênh giúp tôi vấy.,1139.5,731.0
+PhoWhisper-small,Code-switching,B05,Deploy service này lên server staging ngay bây giờ,d này lên server stackedin ngay bây giờ.,889.3,731.0
+PhoWhisper-small,Code-switching,B06,Kiểm tra log của container xem có lỗi exception gì không,kiểm tra lo của container xem có lỗiát xe tino gì không.,921.8,731.0
+PhoWhisper-small,Code-switching,B07,Tạo một component React mới bằng TypeScript nhé,tạo một công bon riết mới bằng tay sơ kíp nhé.,853.9,731.0
+PhoWhisper-small,Code-switching,B08,Push code lên remote repository và chạy github actions,pốt cóc lên ri mốt ri pô xi tô và chạy dứt thúc ác ti ô.,1215.2,731.0
+PhoWhisper-small,Code-switching,B09,Restart lại websocket server ở port tám mươi tám mươi,testtest lại quách xuất kết server ở post 80 tám mươi.,1224.3,731.0
+PhoWhisper-small,Code-switching,B10,Cài đặt thư viện langgraph và langchain trong virtual environment,cài đặt thư viện lang gáp và lang chang trong vi tôn en vi rôm.,1154.3,731.0
+Faster-Whisper-tiny (Baseline),Thuần Việt,A01,Bây giờ là mấy giờ rồi Jarvis?,Bây giờ là mấy giờ rồi gia thích,521.1,323.0
+Faster-Whisper-tiny (Baseline),Thuần Việt,A02,Hôm nay thời tiết Hà Nội thế nào có mưa không?,Hôm nay thời tích hà nội thế nào có mưa không?,527.0,323.0
+Faster-Whisper-tiny (Baseline),Thuần Việt,A03,Nhắc tôi uống nước lúc ba giờ chiều nhé.,Nhắc tôi ủng nước lúc bài giờ chịu nha,547.1,323.0
+Faster-Whisper-tiny (Baseline),Thuần Việt,A04,Đặt báo thức bảy giờ sáng mai giúp tôi.,Đặc báo thức bẩy giờ sáng mai giúp tôi.,621.5,323.0
+Faster-Whisper-tiny (Baseline),Thuần Việt,A05,Bạn có thể kể cho tôi nghe một câu chuyện cười được không?,Bản có thể kể cho tôi nha một câu chuyện cười được không?,656.4,323.0
+Faster-Whisper-tiny (Baseline),Thuần Việt,A06,Hãy liệt kê các công việc tôi cần hoàn thành trong ngày hôm nay.,Tại vì các công việc tôi gần hoàn thành trong ngày hôm nay,562.6,323.0
+Faster-Whisper-tiny (Baseline),Thuần Việt,A07,Tóm tắt lại nội dung cuộc họp sáng nay giúp tôi với.,Tấm tác lại nổi dung cuộc họp sáng này giúp tôi với,538.1,323.0
+Faster-Whisper-tiny (Baseline),Thuần Việt,A08,Chúc bạn một ngày mới làm việc vui vẻ và hiệu quả.,Chúc bạn mục này mới làm việc vui vẽ và hiểu quá.,489.2,323.0
+Faster-Whisper-tiny (Baseline),Thuần Việt,A09,Mở giúp tôi danh sách ghi chú gần đây nhất nhé.,Mở giúp tôi dành sát gì chú gần đây nhất nhé.,240.4,323.0
+Faster-Whisper-tiny (Baseline),Thuần Việt,A10,"Cảm ơn Jarvis, bạn làm tốt lắm.",Cảm ơn gia viết bản làm tốt lắm,126.2,323.0
+Faster-Whisper-tiny (Baseline),Code-switching,B01,Mở terminal giúp tui,Mở tay mình ăn giúp tôi.,128.8,323.0
+Faster-Whisper-tiny (Baseline),Code-switching,B02,Check git log commit gần nhất,chết kích lọc có mịt gần nhé.,140.0,323.0
+Faster-Whisper-tiny (Baseline),Code-switching,B03,Chạy docker build lại cái image này đi,Chè đó cơm biểu lại cái em ít này đi.,145.3,323.0
+Faster-Whisper-tiny (Baseline),Code-switching,B04,Tạo pull request lên branch main giúp tôi với,Tạo cùng trích lên bờ răng mêng giúp tôi với,147.3,323.0
+Faster-Whisper-tiny (Baseline),Code-switching,B05,Deploy service này lên server staging ngay bây giờ,Đếc loại xe vigt này lên xe vurst tàng in này bây giờ.,166.3,323.0
+Faster-Whisper-tiny (Baseline),Code-switching,B06,Kiểm tra log của container xem có lỗi exception gì không,Tỉm chào lọc của cường tên nơi xem có lỗi XT nô gì không?,173.3,323.0
+Faster-Whisper-tiny (Baseline),Code-switching,B07,Tạo một component React mới bằng TypeScript nhé,Tạo một công pong trích mới bằng tài sơ kép nhá.,150.1,323.0
+Faster-Whisper-tiny (Baseline),Code-switching,B08,Push code lên remote repository và chạy github actions,Phu scope lần đi mục trí posi tổ và trảy giết thúc át tiêu.,180.8,323.0
+Faster-Whisper-tiny (Baseline),Code-switching,B09,Restart lại websocket server ở port tám mươi tám mươi,Khiếc tác lại vết xuất kết sự vờ ở bóng tám người tám người.,192.2,323.0
+Faster-Whisper-tiny (Baseline),Code-switching,B10,Cài đặt thư viện langgraph và langchain trong virtual environment,Cái đặt khu vĩnh làn gác và lăng trang trong ví tổng n ví tổng n ví tổng,209.4,323.0

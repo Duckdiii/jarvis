@@ -1,0 +1,32 @@
+# ==============================================================================
+# TẬP DỮ LIỆU ĐÁNH GIÁ BENCHMARK STT (PHASE 1 - SUBTASK 1.4)
+# Phần cứng mục tiêu: RTX 3050 (6GB VRAM)
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# NHÓM A: THUẦN VIỆT (Giao tiếp thông thường, truy vấn thời gian, tác vụ đơn giản)
+# ------------------------------------------------------------------------------
+A01: Bây giờ là mấy giờ rồi Jarvis?
+A02: Hôm nay thời tiết Hà Nội thế nào có mưa không?
+A03: Nhắc tôi uống nước lúc ba giờ chiều nhé.
+A04: Đặt báo thức bảy giờ sáng mai giúp tôi.
+A05: Bạn có thể kể cho tôi nghe một câu chuyện cười được không?
+A06: Hãy liệt kê các công việc tôi cần hoàn thành trong ngày hôm nay.
+A07: Tóm tắt lại nội dung cuộc họp sáng nay giúp tôi với.
+A08: Chúc bạn một ngày mới làm việc vui vẻ và hiệu quả.
+A09: Mở giúp tôi danh sách ghi chú gần đây nhất nhé.
+A10: Cảm ơn Jarvis, bạn làm tốt lắm.
+
+# ------------------------------------------------------------------------------
+# NHÓM B: CODE-SWITCHING (Chen thuật ngữ kỹ thuật tiếng Anh / Tech / Developer)
+# ------------------------------------------------------------------------------
+B01: Mở terminal giúp tui
+B02: Check git log commit gần nhất
+B03: Chạy docker build lại cái image này đi
+B04: Tạo pull request lên branch main giúp tôi với
+B05: Deploy service này lên server staging ngay bây giờ
+B06: Kiểm tra log của container xem có lỗi exception gì không
+B07: Tạo một component React mới bằng TypeScript nhé
+B08: Push code lên remote repository và chạy github actions
+B09: Restart lại websocket server ở port tám mươi tám mươi
+B10: Cài đặt thư viện langgraph và langchain trong virtual environment
